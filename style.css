@@ -31,7 +31,7 @@ body {
 	--color-link-hover: #fff;
 	--color-content-title-sub: #6b5537;
     color: var(--color-text);
-    background-color: var(--color-bg);
+    background: url("img/img8.jpg") no-repeat center center fixed;;
     --cursor-stroke: #6b5537;
     --cursor-fill: none;
     --cursor-stroke-width: 1px;
